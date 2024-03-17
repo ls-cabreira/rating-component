@@ -1,7 +1,7 @@
 .component {
     display: flex;
     flex-direction: column;
-    gap: 1.8rem;
+    gap: 1rem;
     width: 70vw;
     max-width: 290px;
     padding: 1.4rem;
